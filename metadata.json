@@ -1,0 +1,7 @@
+{
+  "name": "Glowyze",
+  "description": "AI-powered skincare companion application featuring face analysis, personalized recommendations, and an intelligent skincare assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
